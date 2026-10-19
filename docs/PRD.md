@@ -57,9 +57,6 @@ Do ustalenia po wyborze technologii. Testy mają sprawdzać zachowanie widoczne 
 
 ## Poza zakresem
 
-- Tokeny wymienne na pieniądze.
-- Projekty wojskowe lub tajne.
-- Współpraca z państwem na starcie.
 - Własny system kont i wideokonferencji (jest w narzędziu Tomasza).
 
 ## Kontekst
